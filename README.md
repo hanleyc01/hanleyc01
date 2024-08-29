@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @hanleyc01
-- 👀 I’m interested in computers (they're crazy!!), formal languages and logic, Philosophy of Computation, Language Syntax and Semantics :3 
-- 🌱 Learning about interactive theorem provers with very lofty goals of researching their implementation and maintenance
+
